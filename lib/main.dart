@@ -94,7 +94,7 @@ class _HomePageState extends State<HomePage> {
                   print(greenValue);
                 },
               ),
-              Text("valor del slider $blueValue"),
+              Text("Valor del slider $blueValue"),
               Slider(
                 value: blueValue,
                 min: 0,
